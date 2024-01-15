@@ -6,10 +6,10 @@ Created on Wed Dec 20 15:17:53 2023
 """
 
 import os
-path = "C:/Users/Thuy-trang/Downloads/1a76c251-8cf1-476b-a8e1-1ec19ccab6ed"
+path = "C:/Users/Thuy-trang/Desktop/mspr-ia/projet MSPR/Mammifères/Ecureuil/0ef6a4e9-7e1f-492b-9371-7397dc090ae4"
 imgs = os.listdir(path)
 for img in imgs :
-    if "cat" not in img : 
+    if "squirrel" not in img : 
         os.remove(path + "/" + img)
         
 
