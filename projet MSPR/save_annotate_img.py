@@ -61,7 +61,8 @@ def save_visualized_image(image_path, annotation_path, output_path):
 # Example usage
 image_path = 'C:/Users/Thuy-trang/Documents/Castor/Beaver-Track.jpg'
 annotation_path = 'C:/Users/Thuy-trang/Documents/Castor/Beaver-Track.xml'
-output_path = 'C:/Users/Thuy-trang/Desktop/mspr-ia/projet MSPR/annotation/Castor/Beaver-Track.jpg'
+output_path = 'C:/Users/Thuy-trang/Desktop/mspr-ia/projet MSPR/annotation/Beaver-Track.jpg'
 save_visualized_image(image_path, annotation_path, output_path)
 visualize_annotations(image_path, annotation_path)
 """
+

@@ -6,7 +6,7 @@ Created on Wed Dec 20 15:17:53 2023
 """
 
 import os
-path = "C:/Users/Thuy-trang/Desktop/mspr-ia/projet MSPR/Mammifères/Lapin/7fea0f24-799b-4c2a-b051-eb51290598b8"
+path = "C:/Users/Thuy-trang/Downloads/e6b05a89-44a0-46d5-aa85-dfe73eff11d5"
 imgs = os.listdir(path)
 for img in imgs :
     if "rabbit" not in img : 
