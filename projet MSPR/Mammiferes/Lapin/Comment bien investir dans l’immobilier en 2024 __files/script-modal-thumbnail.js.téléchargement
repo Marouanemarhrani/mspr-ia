@@ -1,0 +1,28 @@
+
+let div = document.querySelector('.post-thumbnail');
+if (div) {
+	let mask = document.createElement('div');
+	mask.classList.add('mask');
+	// Ajoutez le contenu à la div
+	mask.innerHTML = `
+		<div class="mask-content" >
+		<p class="mask-title" >${mon_plugin_data.title}</p>
+		<p class="mask-description" >${mon_plugin_data.texte}</p>
+		<a href="#" onclick="this.href=atob('${mon_plugin_data.lien}');" class="cta cta_call" cta_name="${mon_plugin_data.cta} modal" cta_type="bouton" cta_position="image à la une" >${mon_plugin_data.cta}</a>
+		</div>
+	`;
+	
+	div.appendChild(mask);
+	
+	mask.animate([
+		// keyframes
+		{ transform: 'translateX(100%)', opacity: 0 }, 
+		{ transform: 'translateX(0)', opacity: 1 }
+	], { 
+		// timing options
+		duration: 1000,
+		delay: 0,
+		fill: 'forwards'
+	});
+	
+}

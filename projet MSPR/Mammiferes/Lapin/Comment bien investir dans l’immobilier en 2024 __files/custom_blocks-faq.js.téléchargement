@@ -1,0 +1,16 @@
+/* ---------- COLLAPSE (FAQ) ---------- */
+jQuery(document).ready(function($) {
+    $('.custom-collapse .collapse-button').click(function() {
+        if ($(this).hasClass('active')) {
+            $(this).removeClass('active');
+            $(this).next('.collapse-content').slideUp();
+        } else {
+            // ?? Ménage et fermeture des onglets ouverts aux alentours selon hiérarchie
+            $('.collapse-button.active').next('.collapse-content').slideUp();
+            $('.collapse-button.active').removeClass('active');
+            // ?? On déploie le contenu du sous-menu pour l'item courant
+            $(this).addClass('active');
+            $(this).next('.collapse-content').slideDown();
+        }
+    });
+});

@@ -1,0 +1,235 @@
+/*--------VARIABLES--------*/
+/*--------FONTS---------*/
+@font-face {
+  font-family: "ProximaNova";
+  src: url("../../fonts/ProximaNova/ProximaNova-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "ProximaNova Medium";
+  src: url("../../fonts/ProximaNova/ProximaNova-Medium.ttf") format("truetype");
+}
+@font-face {
+  font-family: "ProximaNova Extra-bold";
+  src: url("../../fonts/ProximaNova/ProximaNova-ExtraBold.otf") format("opentype");
+}
+@font-face {
+  font-family: "ProximaNova Bold";
+  src: url("../../fonts/ProximaNova/ProximaNova-Bold.ttf") format("truetype");
+}
+@-webkit-keyframes rotation {
+  from {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+  }
+  to {
+    -webkit-transform: rotate(359deg);
+            transform: rotate(359deg);
+  }
+}
+@keyframes rotation {
+  from {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+  }
+  to {
+    -webkit-transform: rotate(359deg);
+            transform: rotate(359deg);
+  }
+}
+@-webkit-keyframes balance {
+  from {
+    -webkit-transform: rotate(-5deg);
+            transform: rotate(-5deg);
+  }
+  to {
+    -webkit-transform: rotate(5deg);
+            transform: rotate(5deg);
+  }
+}
+@keyframes balance {
+  from {
+    -webkit-transform: rotate(-5deg);
+            transform: rotate(-5deg);
+  }
+  to {
+    -webkit-transform: rotate(5deg);
+            transform: rotate(5deg);
+  }
+}
+@-webkit-keyframes zoom {
+  from {
+    -webkit-transform: scale(1) translateY(-50%);
+            transform: scale(1) translateY(-50%);
+  }
+  to {
+    -webkit-transform: scale(1.07) translateY(-50%);
+            transform: scale(1.07) translateY(-50%);
+  }
+}
+@keyframes zoom {
+  from {
+    -webkit-transform: scale(1) translateY(-50%);
+            transform: scale(1) translateY(-50%);
+  }
+  to {
+    -webkit-transform: scale(1.07) translateY(-50%);
+            transform: scale(1.07) translateY(-50%);
+  }
+}
+@-webkit-keyframes zoom2 {
+  from {
+    -webkit-transform: scale(1) translateY(-60%);
+            transform: scale(1) translateY(-60%);
+  }
+  to {
+    -webkit-transform: scale(1.07) translateY(-60%);
+            transform: scale(1.07) translateY(-60%);
+  }
+}
+@keyframes zoom2 {
+  from {
+    -webkit-transform: scale(1) translateY(-60%);
+            transform: scale(1) translateY(-60%);
+  }
+  to {
+    -webkit-transform: scale(1.07) translateY(-60%);
+            transform: scale(1.07) translateY(-60%);
+  }
+}
+@media (min-width: 1550px) {
+  @-webkit-keyframes diago {
+    from {
+      -webkit-transform: translate(105px, -25px);
+              transform: translate(105px, -25px);
+    }
+    to {
+      -webkit-transform: translate(80px, 0);
+              transform: translate(80px, 0);
+    }
+  }
+  @keyframes diago {
+    from {
+      -webkit-transform: translate(105px, -25px);
+              transform: translate(105px, -25px);
+    }
+    to {
+      -webkit-transform: translate(80px, 0);
+              transform: translate(80px, 0);
+    }
+  }
+}
+@media (max-width: 1549px) and (min-width: 1300px) {
+  @-webkit-keyframes diago {
+    from {
+      -webkit-transform: translate(85px, -25px);
+              transform: translate(85px, -25px);
+    }
+    to {
+      -webkit-transform: translate(60px, 0);
+              transform: translate(60px, 0);
+    }
+  }
+  @keyframes diago {
+    from {
+      -webkit-transform: translate(85px, -25px);
+              transform: translate(85px, -25px);
+    }
+    to {
+      -webkit-transform: translate(60px, 0);
+              transform: translate(60px, 0);
+    }
+  }
+}
+@media (max-width: 1299px) {
+  @-webkit-keyframes diago {
+    from {
+      -webkit-transform: translate(85px, -80px);
+              transform: translate(85px, -80px);
+    }
+    to {
+      -webkit-transform: translate(60px, -55px);
+              transform: translate(60px, -55px);
+    }
+  }
+  @keyframes diago {
+    from {
+      -webkit-transform: translate(85px, -80px);
+              transform: translate(85px, -80px);
+    }
+    to {
+      -webkit-transform: translate(60px, -55px);
+              transform: translate(60px, -55px);
+    }
+  }
+}
+/* ----- KEYFRAMES ----- */
+@keyframes fadeInUpCustom {
+  from {
+    -webkit-transform: translate3d(0, 40px, 0);
+            transform: translate3d(0, 40px, 0);
+  }
+  to {
+    -webkit-transform: translate3d(0, 0, 0);
+            transform: translate3d(0, 0, 0);
+    opacity: 1;
+  }
+}
+@-webkit-keyframes fadeInUpCustom {
+  from {
+    -webkit-transform: translate3d(0, 40px, 0);
+            transform: translate3d(0, 40px, 0);
+  }
+  to {
+    -webkit-transform: translate3d(0, 0, 0);
+            transform: translate3d(0, 0, 0);
+    opacity: 1;
+  }
+}
+.fadeInUpCustom {
+  opacity: 0;
+  -webkit-animation: fadeInUpCustom forwards 0.8s cubic-bezier(0.39, 0.575, 0.565, 1);
+  animation: fadeInUpCustom forwards 0.8s cubic-bezier(0.39, 0.575, 0.565, 1);
+}
+
+@-webkit-keyframes rot {
+  0% {
+    -webkit-transform: rotate(0);
+            transform: rotate(0);
+  }
+  100% {
+    -webkit-transform: rotate(1080deg);
+            transform: rotate(1080deg);
+  }
+}
+
+@keyframes rot {
+  0% {
+    -webkit-transform: rotate(0);
+            transform: rotate(0);
+  }
+  100% {
+    -webkit-transform: rotate(1080deg);
+            transform: rotate(1080deg);
+  }
+}
+@-webkit-keyframes spin {
+  0% {
+    -webkit-transform: rotate(0);
+            transform: rotate(0);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+  }
+}
+@keyframes spin {
+  0% {
+    -webkit-transform: rotate(0);
+            transform: rotate(0);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+  }
+}
+/* ----- BANDEAU FAQ FOOTER ----- */
