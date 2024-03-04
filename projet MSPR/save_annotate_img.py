@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Dec 21 16:28:51 2023
-
-@author: Thuy-trang
-"""
 
 import cv2
 import xml.etree.ElementTree as ET
@@ -27,13 +21,6 @@ def visualize_annotations(image_path, annotation_path):
     cv2.waitKey(0)
     cv2.destroyAllWindows()
 
-
-"""
-# Example usage
-image_path = 'path_to_image.jpg'
-annotation_path = 'path_to_annotation.xml'
-visualize_annotations(image_path, annotation_path)
-"""
 
 def save_visualized_image(image_path, annotation_path, output_path):
     image = cv2.imread(image_path)
