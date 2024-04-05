@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Chat</folder>
+	<filename>Bobcat-tracks31-300x255.jpg</filename>
+	<path>C:\projets\mspr-ia\projet MSPR\Mammifères\Chat\Bobcat-tracks31-300x255.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>255</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>92</xmin>
+			<ymin>149</ymin>
+			<xmax>188</xmax>
+			<ymax>236</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>chat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>205</xmin>
+			<ymin>91</ymin>
+			<xmax>292</xmax>
+			<ymax>191</ymax>
+		</bndbox>
+	</object>
+</annotation>

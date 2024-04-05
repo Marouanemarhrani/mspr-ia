@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Castor</folder>
+	<filename>original 3.png</filename>
+	<path>C:\projets\mspr-ia\projet MSPR\Mammifères\Castor\original 3.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1036</width>
+		<height>766</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>castor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>109</xmin>
+			<ymin>325</ymin>
+			<xmax>446</xmax>
+			<ymax>638</ymax>
+		</bndbox>
+	</object>
+</annotation>

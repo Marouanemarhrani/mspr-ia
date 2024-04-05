@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Castor</folder>
+	<filename>Beaver-Tracks-3 (1).jpg</filename>
+	<path>C:\projets\mspr-ia\projet MSPR\Mammifères\Castor\Beaver-Tracks-3 (1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>846</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>castor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>150</xmin>
+			<ymin>52</ymin>
+			<xmax>632</xmax>
+			<ymax>821</ymax>
+		</bndbox>
+	</object>
+</annotation>

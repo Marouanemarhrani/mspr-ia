@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Chat</folder>
+	<filename>paw-prints-583794_1280.jpg</filename>
+	<path>C:\projets\mspr-ia\projet MSPR\Mammifères\Chat\paw-prints-583794_1280.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>279</xmin>
+			<ymin>435</ymin>
+			<xmax>551</xmax>
+			<ymax>689</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>chat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>753</xmin>
+			<ymin>204</ymin>
+			<xmax>1087</xmax>
+			<ymax>498</ymax>
+		</bndbox>
+	</object>
+</annotation>

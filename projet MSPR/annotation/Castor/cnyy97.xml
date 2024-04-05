@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Castor</folder>
+	<filename>cnyy97.jpg</filename>
+	<path>C:\projets\mspr-ia\projet MSPR\Mammifères\Castor\cnyy97.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>castor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>29</xmin>
+			<ymin>188</ymin>
+			<xmax>135</xmax>
+			<ymax>268</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>castor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>262</xmin>
+			<ymin>294</ymin>
+			<xmax>346</xmax>
+			<ymax>376</ymax>
+		</bndbox>
+	</object>
+</annotation>

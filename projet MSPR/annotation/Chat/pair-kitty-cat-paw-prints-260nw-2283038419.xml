@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Chat</folder>
+	<filename>pair-kitty-cat-paw-prints-260nw-2283038419.webp</filename>
+	<path>C:\projets\mspr-ia\projet MSPR\Mammifères\Chat\pair-kitty-cat-paw-prints-260nw-2283038419.webp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>347</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>113</xmin>
+			<ymin>95</ymin>
+			<xmax>177</xmax>
+			<ymax>160</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>chat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>196</xmin>
+			<ymin>138</ymin>
+			<xmax>264</xmax>
+			<ymax>211</ymax>
+		</bndbox>
+	</object>
+</annotation>
