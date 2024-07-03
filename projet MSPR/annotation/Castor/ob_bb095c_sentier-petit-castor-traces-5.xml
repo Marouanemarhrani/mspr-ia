@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Castor</folder>
 	<filename>ob_bb095c_sentier-petit-castor-traces-5.jpg</filename>
-	<path>C:\projets\mspr-ia\projet MSPR\Mammifères\Castor\ob_bb095c_sentier-petit-castor-traces-5.jpg</path>
+	<path>C:\Users\oulis\Documents\mspr-ia\projet MSPR\Mammiferes\Castor\ob_bb095c_sentier-petit-castor-traces-5.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,63 +12,63 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>castor</name>
+		<name>beaver</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>50</xmin>
-			<ymin>203</ymin>
-			<xmax>235</xmax>
-			<ymax>354</ymax>
+			<xmin>56</xmin>
+			<ymin>209</ymin>
+			<xmax>246</xmax>
+			<ymax>352</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>castor</name>
+		<name>beaver</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>209</xmin>
-			<ymin>402</ymin>
-			<xmax>468</xmax>
-			<ymax>598</ymax>
+			<xmin>212</xmin>
+			<ymin>401</ymin>
+			<xmax>481</xmax>
+			<ymax>597</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>castor</name>
+		<name>beaver</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>373</xmin>
-			<ymin>249</ymin>
-			<xmax>554</xmax>
-			<ymax>399</ymax>
+			<xmin>696</xmin>
+			<ymin>398</ymin>
+			<xmax>867</xmax>
+			<ymax>537</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>castor</name>
+		<name>beaver</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>690</xmin>
-			<ymin>400</ymin>
-			<xmax>866</xmax>
-			<ymax>539</ymax>
+			<xmin>383</xmin>
+			<ymin>247</ymin>
+			<xmax>530</xmax>
+			<ymax>402</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>castor</name>
+		<name>beaver</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>750</xmin>
-			<ymin>278</ymin>
-			<xmax>936</xmax>
-			<ymax>441</ymax>
+			<xmin>759</xmin>
+			<ymin>273</ymin>
+			<xmax>928</xmax>
+			<ymax>426</ymax>
 		</bndbox>
 	</object>
 </annotation>

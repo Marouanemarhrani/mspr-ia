@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Castor</folder>
 	<filename>Beaver-Tracks-8 (1).jpg</filename>
-	<path>C:\projets\mspr-ia\projet MSPR\Mammifères\Castor\Beaver-Tracks-8 (1).jpg</path>
+	<path>C:\Users\oulis\Documents\mspr-ia\projet MSPR\Mammiferes\Castor\Beaver-Tracks-8 (1).jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>castor</name>
+		<name>beaver</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>134</xmin>
-			<ymin>219</ymin>
-			<xmax>504</xmax>
-			<ymax>747</ymax>
+			<xmin>131</xmin>
+			<ymin>221</ymin>
+			<xmax>572</xmax>
+			<ymax>783</ymax>
 		</bndbox>
 	</object>
 </annotation>

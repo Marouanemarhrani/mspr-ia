@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Castor</folder>
 	<filename>coulee-castor20150418-1542442.jpg</filename>
-	<path>C:\projets\mspr-ia\projet MSPR\Mammifères\Castor\coulee-castor20150418-1542442.jpg</path>
+	<path>C:\Users\oulis\Documents\mspr-ia\projet MSPR\Mammiferes\Castor\coulee-castor20150418-1542442.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,39 +12,39 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>castor</name>
+		<name>beaver</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>584</xmin>
-			<ymin>1349</ymin>
+			<xmin>581</xmin>
+			<ymin>1340</ymin>
 			<xmax>710</xmax>
-			<ymax>1540</ymax>
+			<ymax>1542</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>castor</name>
+		<name>beaver</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>653</xmin>
-			<ymin>1135</ymin>
-			<xmax>809</xmax>
-			<ymax>1287</ymax>
+			<xmin>496</xmin>
+			<ymin>961</ymin>
+			<xmax>645</xmax>
+			<ymax>1150</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>castor</name>
+		<name>beaver</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>549</xmin>
-			<ymin>800</ymin>
-			<xmax>649</xmax>
-			<ymax>901</ymax>
+			<xmin>560</xmin>
+			<ymin>812</ymin>
+			<xmax>712</xmax>
+			<ymax>951</ymax>
 		</bndbox>
 	</object>
 </annotation>

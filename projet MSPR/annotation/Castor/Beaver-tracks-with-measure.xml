@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Castor</folder>
 	<filename>Beaver-tracks-with-measure.jpeg</filename>
-	<path>C:\projets\mspr-ia\projet MSPR\Mammifères\Castor\Beaver-tracks-with-measure.jpeg</path>
+	<path>C:\Users\oulis\Documents\mspr-ia\projet MSPR\Mammiferes\Castor\Beaver-tracks-with-measure.jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,63 +12,51 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>castor</name>
+		<name>beaver</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>142</xmin>
-			<ymin>352</ymin>
-			<xmax>257</xmax>
-			<ymax>455</ymax>
+			<xmin>134</xmin>
+			<ymin>348</ymin>
+			<xmax>267</xmax>
+			<ymax>453</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>castor</name>
+		<name>beaver</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>152</xmin>
-			<ymin>225</ymin>
-			<xmax>362</xmax>
+			<xmin>155</xmin>
+			<ymin>241</ymin>
+			<xmax>364</xmax>
 			<ymax>358</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>castor</name>
+		<name>beaver</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>402</xmin>
-			<ymin>131</ymin>
-			<xmax>604</xmax>
-			<ymax>329</ymax>
+			<xmin>721</xmin>
+			<ymin>259</ymin>
+			<xmax>905</xmax>
+			<ymax>470</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>castor</name>
+		<name>beaver</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>709</xmin>
-			<ymin>241</ymin>
-			<xmax>921</xmax>
-			<ymax>374</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>castor</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>725</xmin>
-			<ymin>357</ymin>
-			<xmax>834</xmax>
-			<ymax>472</ymax>
+			<xmin>396</xmin>
+			<ymin>110</ymin>
+			<xmax>615</xmax>
+			<ymax>341</ymax>
 		</bndbox>
 	</object>
 </annotation>
