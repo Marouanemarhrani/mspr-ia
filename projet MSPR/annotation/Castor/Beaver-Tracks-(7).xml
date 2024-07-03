@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Castor</folder>
 	<filename>Beaver-Tracks-(7).jpg</filename>
-	<path>C:\projets\mspr-ia\projet MSPR\Mammifères\Castor\Beaver-Tracks-(7).jpg</path>
+	<path>C:\Users\oulis\Documents\mspr-ia\projet MSPR\Mammiferes\Castor\Beaver-Tracks-(7).jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,63 +12,63 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>castor</name>
+		<name>beaver</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>41</xmin>
-			<ymin>304</ymin>
-			<xmax>211</xmax>
-			<ymax>444</ymax>
+			<xmin>19</xmin>
+			<ymin>308</ymin>
+			<xmax>233</xmax>
+			<ymax>430</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>castor</name>
+		<name>beaver</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>196</xmin>
-			<ymin>209</ymin>
-			<xmax>384</xmax>
-			<ymax>348</ymax>
+			<xmin>185</xmin>
+			<ymin>216</ymin>
+			<xmax>362</xmax>
+			<ymax>343</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>castor</name>
+		<name>beaver</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>430</xmin>
-			<ymin>304</ymin>
-			<xmax>612</xmax>
-			<ymax>420</ymax>
+			<xmin>424</xmin>
+			<ymin>294</ymin>
+			<xmax>611</xmax>
+			<ymax>428</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>castor</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>658</xmin>
-			<ymin>249</ymin>
-			<xmax>844</xmax>
-			<ymax>351</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>castor</name>
+		<name>beaver</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>785</xmin>
-			<ymin>334</ymin>
-			<xmax>952</xmax>
-			<ymax>469</ymax>
+			<ymin>338</ymin>
+			<xmax>976</xmax>
+			<ymax>464</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>beaver</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>648</xmin>
+			<ymin>245</ymin>
+			<xmax>848</xmax>
+			<ymax>338</ymax>
 		</bndbox>
 	</object>
 </annotation>

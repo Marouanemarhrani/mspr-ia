@@ -1,7 +1,7 @@
-<annotation>
+<annotation verified="yes">
 	<folder>Chat</folder>
 	<filename>perftrack.jpg</filename>
-	<path>C:\projets\mspr-ia\projet MSPR\Mammifères\Chat\perftrack.jpg</path>
+	<path>C:\Users\oulis\Documents\mspr-ia\projet MSPR\Mammiferes\Chat\perftrack.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>chat</name>
+		<name>cat</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>13</xmin>
-			<ymin>10</ymin>
+			<xmin>19</xmin>
+			<ymin>7</ymin>
 			<xmax>226</xmax>
-			<ymax>213</ymax>
+			<ymax>216</ymax>
 		</bndbox>
 	</object>
 </annotation>

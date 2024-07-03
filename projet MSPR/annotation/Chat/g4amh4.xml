@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Chat</folder>
 	<filename>g4amh4.jpg</filename>
-	<path>C:\projets\mspr-ia\projet MSPR\Mammifères\Chat\g4amh4.jpg</path>
+	<path>C:\Users\oulis\Documents\mspr-ia\projet MSPR\Mammiferes\Chat\g4amh4.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,14 +12,26 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>chat</name>
+		<name>cat</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>156</xmin>
-			<ymin>56</ymin>
-			<xmax>388</xmax>
+			<xmin>221</xmin>
+			<ymin>60</ymin>
+			<xmax>380</xmax>
+			<ymax>237</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>165</xmin>
+			<ymin>130</ymin>
+			<xmax>373</xmax>
 			<ymax>349</ymax>
 		</bndbox>
 	</object>

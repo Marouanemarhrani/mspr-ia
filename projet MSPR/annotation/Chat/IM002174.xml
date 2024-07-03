@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Chat</folder>
 	<filename>IM002174.jpg</filename>
-	<path>C:\projets\mspr-ia\projet MSPR\Mammifères\Chat\IM002174.jpg</path>
+	<path>C:\Users\oulis\Documents\mspr-ia\projet MSPR\Mammiferes\Chat\IM002174.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,27 +12,27 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>chat</name>
+		<name>cat</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>105</xmin>
-			<ymin>92</ymin>
+			<xmin>108</xmin>
+			<ymin>101</ymin>
 			<xmax>347</xmax>
-			<ymax>328</ymax>
+			<ymax>325</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>castor</name>
+		<name>cat</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>366</xmin>
-			<ymin>155</ymin>
-			<xmax>566</xmax>
-			<ymax>359</ymax>
+			<xmin>373</xmin>
+			<ymin>154</ymin>
+			<xmax>558</xmax>
+			<ymax>345</ymax>
 		</bndbox>
 	</object>
 </annotation>

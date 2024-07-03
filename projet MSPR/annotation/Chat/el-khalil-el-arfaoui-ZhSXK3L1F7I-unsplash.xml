@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Chat</folder>
 	<filename>el-khalil-el-arfaoui-ZhSXK3L1F7I-unsplash.jpg</filename>
-	<path>C:\projets\mspr-ia\projet MSPR\Mammifères\Chat\el-khalil-el-arfaoui-ZhSXK3L1F7I-unsplash.jpg</path>
+	<path>C:\Users\oulis\Documents\mspr-ia\projet MSPR\Mammiferes\Chat\el-khalil-el-arfaoui-ZhSXK3L1F7I-unsplash.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,123 +12,99 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>chat</name>
+		<name>cat</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>963</xmin>
-			<ymin>551</ymin>
-			<xmax>1285</xmax>
-			<ymax>858</ymax>
+			<xmin>951</xmin>
+			<ymin>537</ymin>
+			<xmax>1271</xmax>
+			<ymax>827</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>chat</name>
+		<name>cat</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>830</xmin>
-			<ymin>1177</ymin>
-			<xmax>1163</xmax>
-			<ymax>1448</ymax>
+			<xmin>785</xmin>
+			<ymin>1170</ymin>
+			<xmax>1128</xmax>
+			<ymax>1427</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>chat</name>
+		<name>cat</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1453</xmin>
-			<ymin>2335</ymin>
-			<xmax>1889</xmax>
-			<ymax>2800</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>chat</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1850</xmin>
-			<ymin>371</ymin>
-			<xmax>2201</xmax>
+			<xmin>1818</xmin>
+			<ymin>363</ymin>
+			<xmax>2148</xmax>
 			<ymax>697</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>chat</name>
+		<name>cat</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>182</xmin>
-			<ymin>1335</ymin>
-			<xmax>524</xmax>
-			<ymax>1577</ymax>
+			<xmin>1491</xmin>
+			<ymin>2300</ymin>
+			<xmax>1921</xmax>
+			<ymax>2810</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>chat</name>
+		<name>cat</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2601</xmin>
-			<ymin>2561</ymin>
-			<xmax>3014</xmax>
-			<ymax>3019</ymax>
+			<xmin>68</xmin>
+			<ymin>2007</ymin>
+			<xmax>381</xmax>
+			<ymax>2400</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>chat</name>
+		<name>cat</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1472</xmin>
-			<ymin>1639</ymin>
-			<xmax>1779</xmax>
-			<ymax>1897</ymax>
+			<xmin>2628</xmin>
+			<ymin>2560</ymin>
+			<xmax>3038</xmax>
+			<ymax>3033</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>chat</name>
+		<name>cat</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2630</xmin>
-			<ymin>822</ymin>
-			<xmax>2934</xmax>
-			<ymax>1068</ymax>
+			<xmin>2645</xmin>
+			<ymin>777</ymin>
+			<xmax>2961</xmax>
+			<ymax>1100</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>chat</name>
+		<name>cat</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1659</xmin>
-			<ymin>1355</ymin>
-			<xmax>1950</xmax>
-			<ymax>1635</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>chat</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>37</xmin>
-			<ymin>2022</ymin>
-			<xmax>369</xmax>
-			<ymax>2393</ymax>
+			<xmin>111</xmin>
+			<ymin>1333</ymin>
+			<xmax>551</xmax>
+			<ymax>1683</ymax>
 		</bndbox>
 	</object>
 </annotation>

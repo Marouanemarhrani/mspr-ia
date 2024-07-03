@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Chat</folder>
 	<filename>cat-paw-prints-on-wet-260nw-1885018834.webp</filename>
-	<path>C:\projets\mspr-ia\projet MSPR\Mammifères\Chat\cat-paw-prints-on-wet-260nw-1885018834.webp</path>
+	<path>C:\Users\oulis\Documents\mspr-ia\projet MSPR\Mammiferes\Chat\cat-paw-prints-on-wet-260nw-1885018834.webp</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,51 +12,51 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>chat</name>
+		<name>cat</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>21</xmin>
-			<ymin>142</ymin>
-			<xmax>55</xmax>
-			<ymax>175</ymax>
+			<xmin>18</xmin>
+			<ymin>143</ymin>
+			<xmax>57</xmax>
+			<ymax>178</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>chat</name>
+		<name>cat</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>111</xmin>
-			<ymin>150</ymin>
-			<xmax>147</xmax>
-			<ymax>185</ymax>
+			<ymin>151</ymin>
+			<xmax>145</xmax>
+			<ymax>186</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>chat</name>
+		<name>cat</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>207</xmin>
-			<ymin>141</ymin>
-			<xmax>245</xmax>
+			<xmin>209</xmin>
+			<ymin>144</ymin>
+			<xmax>244</xmax>
 			<ymax>175</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>chat</name>
+		<name>cat</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>310</xmin>
-			<ymin>81</ymin>
-			<xmax>347</xmax>
-			<ymax>116</ymax>
+			<xmin>313</xmin>
+			<ymin>83</ymin>
+			<xmax>346</xmax>
+			<ymax>115</ymax>
 		</bndbox>
 	</object>
 </annotation>

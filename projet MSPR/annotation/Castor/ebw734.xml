@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Castor</folder>
 	<filename>ebw734.jpg</filename>
-	<path>C:\projets\mspr-ia\projet MSPR\Mammifères\Castor\ebw734.jpg</path>
+	<path>C:\Users\oulis\Documents\mspr-ia\projet MSPR\Mammiferes\Castor\ebw734.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>castor</name>
+		<name>beaver</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>97</xmin>
-			<ymin>232</ymin>
-			<xmax>219</xmax>
-			<ymax>363</ymax>
+			<xmin>94</xmin>
+			<ymin>236</ymin>
+			<xmax>215</xmax>
+			<ymax>349</ymax>
 		</bndbox>
 	</object>
 </annotation>

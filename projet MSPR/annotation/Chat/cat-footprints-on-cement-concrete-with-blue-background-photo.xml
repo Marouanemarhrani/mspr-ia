@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Chat</folder>
 	<filename>cat-footprints-on-cement-concrete-with-blue-background-photo.jpeg</filename>
-	<path>C:\projets\mspr-ia\projet MSPR\Mammifères\Chat\cat-footprints-on-cement-concrete-with-blue-background-photo.jpeg</path>
+	<path>C:\Users\oulis\Documents\mspr-ia\projet MSPR\Mammiferes\Chat\cat-footprints-on-cement-concrete-with-blue-background-photo.jpeg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>chat</name>
+		<name>cat</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>147</xmin>
-			<ymin>277</ymin>
-			<xmax>526</xmax>
-			<ymax>606</ymax>
+			<xmin>167</xmin>
+			<ymin>256</ymin>
+			<xmax>512</xmax>
+			<ymax>614</ymax>
 		</bndbox>
 	</object>
 </annotation>

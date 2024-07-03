@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Castor</folder>
 	<filename>castor-europeen-castor-fiber-des-empreintes-de-pas-dans-le-sable-basse-saxe-allemagne-rwgb06.jpg</filename>
-	<path>C:\projets\mspr-ia\projet MSPR\Mammifères\Castor\castor-europeen-castor-fiber-des-empreintes-de-pas-dans-le-sable-basse-saxe-allemagne-rwgb06.jpg</path>
+	<path>C:\Users\oulis\Documents\mspr-ia\projet MSPR\Mammiferes\Castor\castor-europeen-castor-fiber-des-empreintes-de-pas-dans-le-sable-basse-saxe-allemagne-rwgb06.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,111 +12,75 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>castor</name>
+		<name>beaver</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>126</xmin>
-			<ymin>38</ymin>
-			<xmax>285</xmax>
-			<ymax>163</ymax>
+			<xmin>455</xmin>
+			<ymin>1032</ymin>
+			<xmax>733</xmax>
+			<ymax>1232</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>castor</name>
+		<name>beaver</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>264</xmin>
-			<ymin>86</ymin>
-			<xmax>371</xmax>
-			<ymax>194</ymax>
+			<xmin>203</xmin>
+			<ymin>812</ymin>
+			<xmax>555</xmax>
+			<ymax>979</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>castor</name>
+		<name>beaver</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>351</xmin>
-			<ymin>159</ymin>
-			<xmax>556</xmax>
-			<ymax>338</ymax>
+			<xmin>427</xmin>
+			<ymin>560</ymin>
+			<xmax>672</xmax>
+			<ymax>714</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>castor</name>
+		<name>beaver</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>188</xmin>
-			<ymin>382</ymin>
-			<xmax>372</xmax>
-			<ymax>554</ymax>
+			<xmin>185</xmin>
+			<ymin>391</ymin>
+			<xmax>471</xmax>
+			<ymax>536</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>castor</name>
+		<name>beaver</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>347</xmin>
-			<ymin>419</ymin>
-			<xmax>470</xmax>
-			<ymax>528</ymax>
+			<xmin>337</xmin>
+			<ymin>188</ymin>
+			<xmax>559</xmax>
+			<ymax>319</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>castor</name>
+		<name>beaver</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>460</xmin>
-			<ymin>554</ymin>
-			<xmax>659</xmax>
-			<ymax>703</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>castor</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>205</xmin>
-			<ymin>824</ymin>
-			<xmax>435</xmax>
-			<ymax>1000</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>castor</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>412</xmin>
-			<ymin>834</ymin>
-			<xmax>552</xmax>
-			<ymax>977</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>castor</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>463</xmin>
-			<ymin>1028</ymin>
-			<xmax>746</xmax>
-			<ymax>1257</ymax>
+			<xmin>123</xmin>
+			<ymin>46</ymin>
+			<xmax>377</xmax>
+			<ymax>176</ymax>
 		</bndbox>
 	</object>
 </annotation>

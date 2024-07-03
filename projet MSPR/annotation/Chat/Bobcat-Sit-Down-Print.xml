@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Chat</folder>
 	<filename>Bobcat-Sit-Down-Print.jpg</filename>
-	<path>C:\projets\mspr-ia\projet MSPR\Mammifères\Chat\Bobcat-Sit-Down-Print.jpg</path>
+	<path>C:\Users\oulis\Documents\mspr-ia\projet MSPR\Mammiferes\Chat\Bobcat-Sit-Down-Print.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,27 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>chat</name>
+		<name>cat</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1004</xmin>
+			<xmin>632</xmin>
+			<ymin>337</ymin>
+			<xmax>843</xmax>
+			<ymax>529</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>996</xmin>
 			<ymin>232</ymin>
-			<xmax>1191</xmax>
-			<ymax>395</ymax>
+			<xmax>1193</xmax>
+			<ymax>387</ymax>
 		</bndbox>
 	</object>
 </annotation>

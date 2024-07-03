@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Chat</folder>
 	<filename>domcatpen.jpg</filename>
-	<path>C:\projets\mspr-ia\projet MSPR\Mammifères\Chat\domcatpen.jpg</path>
+	<path>C:\Users\oulis\Documents\mspr-ia\projet MSPR\Mammiferes\Chat\domcatpen.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>chat</name>
+		<name>cat</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>30</xmin>
-			<ymin>19</ymin>
-			<xmax>273</xmax>
-			<ymax>257</ymax>
+			<xmin>24</xmin>
+			<ymin>17</ymin>
+			<xmax>274</xmax>
+			<ymax>253</ymax>
 		</bndbox>
 	</object>
 </annotation>

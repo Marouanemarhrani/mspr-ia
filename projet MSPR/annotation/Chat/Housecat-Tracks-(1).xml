@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Chat</folder>
 	<filename>Housecat-Tracks-(1).jpg</filename>
-	<path>C:\projets\mspr-ia\projet MSPR\Mammifères\Chat\Housecat-Tracks-(1).jpg</path>
+	<path>C:\Users\oulis\Documents\mspr-ia\projet MSPR\Mammiferes\Chat\Housecat-Tracks-(1).jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,27 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>chat</name>
+		<name>cat</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>436</xmin>
-			<ymin>56</ymin>
-			<xmax>604</xmax>
-			<ymax>283</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>chat</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>344</xmin>
-			<ymin>414</ymin>
-			<xmax>516</xmax>
-			<ymax>596</ymax>
+			<xmin>343</xmin>
+			<ymin>411</ymin>
+			<xmax>522</xmax>
+			<ymax>618</ymax>
 		</bndbox>
 	</object>
 </annotation>
